@@ -1,5 +1,5 @@
 package com.example.javaproject2.week1.day4;
-import com.example.javaproject2.PrintHello;
+import com.example.javaproject2.week1.day2.PrintHello;
 
 public class VariableEx {
     public static void main(String[] args) {
