@@ -16,5 +16,6 @@ public class UserTest {
         manager.age=14;
         System.out.printf("이름 : %s / 휴대폰 : %s / 나이 : %d\n",manager.name, manager.PhoneNumber, manager.age);
         System.out.printf("%s은 성인입니까? : %s\n", manager.name, manager.isAdult());
+        System.out.printf("rollback 실습");
     }
 }
