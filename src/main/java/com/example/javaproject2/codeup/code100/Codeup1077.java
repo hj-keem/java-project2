@@ -1,13 +1,13 @@
-package com.example.javaproject2.codeup;
+package com.example.javaproject2.codeup.code100;
 
 import java.util.Scanner;
 
-public class Codeup1075 {
+public class Codeup1077 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int iVal = sc.nextInt();
+        int num = sc.nextInt();
 
-        for(int i=iVal-1; i>=0; i--){
+        for(int i=0 ; i<=num; i++){
             System.out.println(i);
         }
     }
