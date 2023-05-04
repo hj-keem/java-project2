@@ -1,4 +1,4 @@
-package com.example.javaproject2.codeup;
+package com.example.javaproject2.week3.day12;
 
 public class Digits {
     public static void main(String[] args) {

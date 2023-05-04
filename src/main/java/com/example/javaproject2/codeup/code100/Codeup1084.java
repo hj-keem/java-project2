@@ -1,4 +1,4 @@
-package com.example.javaproject2.codeup;
+package com.example.javaproject2.codeup.code100;
 
 import java.io.BufferedWriter;
 import java.io.IOException;
